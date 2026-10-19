@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9b10283d31a97b45a0c48385ca6ce76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sound: {fileID: 8300000, guid: 29c3b5f5e56f0f846b31474ecd20aea1, type: 3}
+  - weaponPrefab: {fileID: 3644419631208387495, guid: cc33c380fac192e44a476e33eb62a231,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
