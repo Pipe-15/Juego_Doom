@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 4b878648bbcc1d841acf0dd6d8a2a02d
+  productGUID: c24001a2a2836be4cb60441170056bbd
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: FPS_game
+  productName: DOOM
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -843,14 +843,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: FPS_game
+  metroPackageName: DOOM
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: FPS_game
+  metroApplicationDescription: DOOM
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -920,11 +920,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 1a9e6bff-d8b1-4710-ad7a-8cbb695d98c8
+  cloudProjectId: c828c791-2a5d-4c93-a13c-d9edd306b473
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: FPS_game
-  organizationId: mangel7234
+  projectName: DOOM
+  organizationId: camerongaleano44
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
